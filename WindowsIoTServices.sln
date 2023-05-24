@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsIoTServices", "WindowsIoTServices\WindowsIoTServices.csproj", "{2C8B180D-67D0-4FC4-AF5A-3B6E5BECF9FE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WindowsIoTInstaller", "WindowsIoTInstaller\WindowsIoTInstaller.vdproj", "{EC6E9B73-55E5-4889-BFAF-2E7F637E4619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8B180D-67D0-4FC4-AF5A-3B6E5BECF9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8B180D-67D0-4FC4-AF5A-3B6E5BECF9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8B180D-67D0-4FC4-AF5A-3B6E5BECF9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8B180D-67D0-4FC4-AF5A-3B6E5BECF9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6E9B73-55E5-4889-BFAF-2E7F637E4619}.Debug|Any CPU.ActiveCfg = Debug
+		{EC6E9B73-55E5-4889-BFAF-2E7F637E4619}.Debug|Any CPU.Build.0 = Debug
+		{EC6E9B73-55E5-4889-BFAF-2E7F637E4619}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C501DF-B7F7-4154-B8A5-4BFF26480130}
+	EndGlobalSection
+EndGlobal
